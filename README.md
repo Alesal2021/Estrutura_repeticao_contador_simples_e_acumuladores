@@ -1,0 +1,1 @@
+# Estrutura_repeticao_contador_simples_e_acumuladores
